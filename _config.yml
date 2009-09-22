@@ -1,0 +1,8 @@
+# jekyll config
+# vim: set ft=yaml et ts=2 sts=2 :
+title: "Ulrik Bonde"
+url: http://bonde.github.com/
+
+markdown: maruku
+permalink: "/:year/:month/:day/:title"
+pygments: true

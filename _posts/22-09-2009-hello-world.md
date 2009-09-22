@@ -2,6 +2,7 @@
 layout: post
 title: Hello world!
 tags: [test]
+time: "11:30"
 ---
 
 The mandatory text for testing purposes. Again, hello world!

@@ -30,7 +30,7 @@ div#content {
 
 div#content hr {
   border: 0;
-  background-color: #EEE8AA;
+  background-color: #FFFFF0;
 }
 
 div#content p {
@@ -59,8 +59,8 @@ div#footer {
   margin-top: 30px;
   color: black;
   text-align: center;
-  border-top: 1px solid green;
-  background-color: #c40000;
+  border-top: 1px solid #CDCDC1;
+  background-color: #EEEEE0;
   padding-bottom: 5px;
   clear: both;
   float: left;
@@ -109,11 +109,11 @@ div#related {
 }
 
 div#header h1 {
-  color: #6B0006;
+  color: #8B8B83;
   letter-spacing: -1px;
   height: 60px;
-  background-color: #c40000;
-  border-bottom: 1px solid #6B0006;
+  background-color: #EEEEE0;
+  border-bottom: 1px solid #CDCDC1;
   padding-left: 20px;
   padding-top: 8px;
   margin: 0px;
@@ -121,13 +121,13 @@ div#header h1 {
 }
 
 div#header a {
-  color: #6B0006;
+  color: #8B8B83;
   text-decoration: none;
   border: 0;
 }
 
 div#header a:hover {
-  background-color: red;
+  background-color: #CDCDC1;
 }
 
 a, a:visited, a:link, a:active {

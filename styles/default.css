@@ -1,7 +1,7 @@
 html, body {
   padding: 0;
   margin: 0;
-  background-color: #F5F5F5;
+  background-color: #F7F7F7;
 }
 
 body {
@@ -91,8 +91,8 @@ div.post_info a:hover,
 div.post_info a:visited,
 div.post_info a:link,
 div.post_info a:active {
-  color: black;
-  background-color: white;
+  color: #222222;
+  background-color: #F7F7F7;
   text-decoration: none;
   color: black;
   border: 0;

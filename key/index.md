@@ -11,5 +11,6 @@ Output of `gpg --fingerprint 79F9BADC`
           uid                  Ulrik Bonde <ulrikbonde@gmail.com>
           sub   2048g/0086BBCC 2009-06-02
 
-Get the key: <a href="key/79f9badc.asc">79f9badc</a>
-<!-- vim: set sw=2 sts=2 et : -->
+Get the key: [79f9badc](key/79f9badc.asc)
+
+<!-- vim: set tw=80 ft=mkd sw=4 sts=4 et : -->

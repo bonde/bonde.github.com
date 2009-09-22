@@ -40,7 +40,7 @@ div#content p {
 }
 
 div#content code {
-  color: green;
+  color: #222222;
 }
 
 div#content pre code {
@@ -50,8 +50,8 @@ div#content pre code {
 div#content pre {
   padding: 1em;
   font-size: 9pt;
-  border: 1px solid #469345;
-  background-color: #efffef;
+  background-color: #EEEEE0;
+  border: 1px solid #CDCDC1;
   overflow: auto;
 }
 
@@ -91,7 +91,7 @@ div.post_info a:hover,
 div.post_info a:visited,
 div.post_info a:link,
 div.post_info a:active {
-  color: #222222;
+  color: black;
   background-color: #FCFCFC;
   text-decoration: none;
   color: black;
@@ -127,7 +127,7 @@ div#header a {
 }
 
 div#header a:hover {
-  background-color: #FCFCFC;
+  background-color: #E5E5E5;
 }
 
 a, a:visited, a:link, a:active {
@@ -145,7 +145,7 @@ a:hover {
   border-left: none;
   border-right: none;
   border-bottom: 1px dotted #8B0000;
-  background-color: #FCFCFC;
+  background-color: #E5E5E5;
 }
 
 ul.posts {

@@ -7,7 +7,7 @@ html, body {
 body {
   font-family: verdana,sans-serif;
   font-size: 9pt;
-  color: #222222;
+  color: black;
 }
 
 img {
@@ -40,11 +40,7 @@ div#content p {
 }
 
 div#content code {
-  color: #222222;
-}
-
-div#content pre code {
-  color: #222222;
+  color: #104E8B;
 }
 
 div#content pre {
@@ -94,7 +90,6 @@ div.post_info a:active {
   color: black;
   background-color: #FCFCFC;
   text-decoration: none;
-  color: black;
   border: 0;
 }
 
@@ -109,7 +104,7 @@ div#related {
 }
 
 div#header h1 {
-  color: #8B8B83;
+  color: #222222;
   letter-spacing: -1px;
   height: 60px;
   background-color: #EEEEE0;
@@ -121,22 +116,18 @@ div#header h1 {
 }
 
 div#header a {
-  color: #8B8B83;
+  color: #222222;
   text-decoration: none;
   border: 0;
 }
 
-div#header a:hover {
-  background-color: #E5E5E5;
-}
-
 a, a:visited, a:link, a:active {
-  color: #8B0000;
+  color: #104E8B;
   text-decoration: none;
   border-top: none;
   border-left: none;
   border-right: none;
-  border-bottom: 1px solid #8B0000;
+  border-bottom: 1px solid #104E8B;
 }
 
 a:hover {
@@ -145,7 +136,6 @@ a:hover {
   border-left: none;
   border-right: none;
   border-bottom: 1px dotted #8B0000;
-  background-color: #E5E5E5;
 }
 
 ul.posts {

@@ -109,11 +109,11 @@ div#related {
 }
 
 div#header h1 {
-  color: #43b143;
+  color: #6B0006;
   letter-spacing: -1px;
   height: 60px;
-  background-color: #bbff90;
-  border-bottom: 1px solid green;
+  background-color: #c40000;
+  border-bottom: 1px solid red;
   padding-left: 20px;
   padding-top: 8px;
   margin: 0px;

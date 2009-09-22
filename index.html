@@ -6,7 +6,7 @@ title: Main Page
 {% for post in site.posts limit: 5 %}
 <div class="post_info">
   <h1><a href="{{ post.url }}">{{ post.title }}</a></h1>
-  <p>Created on {{ post.date | date:"%Y-%m-%d at %H:%M" }}. Tags: {{ post.tags | array_to_sentence_string }}.</p>
+  <p>Created on {{ post.date | date:"%d/%m/%y" }}. Tags: {{ post.tags | array_to_sentence_string }}</p>
 </div>
 
 <div class="post">

@@ -1,0 +1,202 @@
+html, body {
+  padding: 0;
+  margin: 0;
+  background: #FFFFE0;
+}
+
+body {
+  font-family: verdana,sans-serif;
+  font-size: 9pt;
+  color: #222222;
+}
+
+img {
+  border: 0;
+}
+
+blockquote {
+  overflow: auto;
+  padding: 0 50px;
+  background: transparent url("/images/blockquote.gif") no-repeat 0 0;
+}
+
+div#content {
+  float: left;
+  width: 65%;
+  margin: 20px;
+  padding: 5px 5px 10px 10px;
+  text-align: left;
+}
+
+div#content hr {
+  border: 0;
+  background-color: #EEE8AA;
+}
+
+div#content p {
+  line-height: 1.5;
+  text-align: justify;
+  margin-bottom: 4px;
+}
+
+div#content code {
+  color: green;
+}
+
+div#content pre code {
+  color: #222222;
+}
+
+div#content pre {
+  padding: 1em;
+  font-size: 9pt;
+  border: 1px solid #469345;
+  background-color: #efffef;
+  overflow: auto;
+}
+
+div#footer {
+  margin-top: 30px;
+  color: black;
+  text-align: center;
+  border-top: 1px solid green;
+  background-color: #bbff90;
+  padding-bottom: 5px;
+  clear: both;
+  float: left;
+  width: 100%;
+}
+
+div#footer a {
+  border: 0;
+}
+
+div.post_info {
+  margin-bottom: 10px;
+}
+
+div.post_info h1 {
+  font-size: 18pt;
+  margin: 0;
+}
+
+div.post_info p {
+  margin: 0;
+  margin-top: 3px;
+  font-size: 8pt;
+}
+
+div.post_info a,
+div.post_info a:hover,
+div.post_info a:visited,
+div.post_info a:link,
+div.post_info a:active {
+  color: black;
+  background-color: white;
+  text-decoration: none;
+  color: black;
+  border: 0;
+}
+
+div.maruku-equation {
+  margin-top: 15px;
+  margin-bottom: 15px;
+  text-align: center;
+}
+
+div#related {
+  margin-top: 20px;
+}
+
+div#header h1 {
+  color: #43b143;
+  letter-spacing: -1px;
+  height: 60px;
+  background-color: #bbff90;
+  border-bottom: 1px solid green;
+  padding-left: 20px;
+  padding-top: 8px;
+  margin: 0px;
+  font-size: 26pt;
+}
+
+div#header a {
+  color: #32a032;
+  text-decoration: none;
+  border: 0;
+}
+
+div#header a:hover {
+  background-color: #bbff90;
+}
+
+a, a:visited, a:link, a:active {
+  color: #237123;
+  text-decoration: none;
+  border-top: none;
+  border-left: none;
+  border-right: none;
+  border-bottom: 1px dotted #469345;
+}
+
+a:hover {
+  color: green;
+  text-decoration: none;
+  border-left: none;
+  border-right: none;
+  border-bottom: 1px dotted #469345;
+  background-color: #ccf3bd;
+}
+
+ul.posts {
+  list-style-type: none;
+  margin-bottom: 2em;
+  padding-left: 10px;
+}
+
+ul.posts li {
+  line-height: 1.70em;
+}
+
+div#menu {
+  margin: 20px;
+  padding: 0 10px 10px 0;
+  float: left;
+  width: 200px;
+  text-align: left;
+}
+
+div#menu ul {
+  margin-left: 0px;
+  padding-left: 25px;
+}
+
+div#menu h3 {
+  font-variant: small-caps;
+  margin: 0;
+}
+
+div#menu p {
+  padding: 0 0 8px 8px;
+  line-height: 1.5;
+  text-align: justify;
+}
+
+div#icons {
+  padding-top: 15px;
+}
+
+div#icons ul {
+  text-align: center;
+  list-style-type: none;
+}
+
+div#icons a {
+  border: 0;
+}
+
+div#comments a {
+  border: 0;
+}
+
+/* vim: set sw=2 sts=2 et : */

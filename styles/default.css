@@ -17,7 +17,7 @@ img {
 blockquote {
   overflow: auto;
   padding: 0 50px;
-  background: transparent url("/images/blockquote.gif") no-repeat 0 0;
+  background: transparent url("/images/blockquote.png") no-repeat 0 0;
 }
 
 div#content {

@@ -60,7 +60,7 @@ div#footer {
   color: black;
   text-align: center;
   border-top: 1px solid green;
-  background-color: #bbff90;
+  background-color: #c40000;
   padding-bottom: 5px;
   clear: both;
   float: left;
@@ -113,7 +113,7 @@ div#header h1 {
   letter-spacing: -1px;
   height: 60px;
   background-color: #c40000;
-  border-bottom: 1px solid red;
+  border-bottom: 1px solid #6B0006;
   padding-left: 20px;
   padding-top: 8px;
   margin: 0px;
@@ -121,13 +121,13 @@ div#header h1 {
 }
 
 div#header a {
-  color: #32a032;
+  color: #6B0006;
   text-decoration: none;
   border: 0;
 }
 
 div#header a:hover {
-  background-color: #bbff90;
+  background-color: red;
 }
 
 a, a:visited, a:link, a:active {

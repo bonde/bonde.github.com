@@ -40,18 +40,20 @@ div#content p {
 }
 
 div#content code {
-  color: #104E8B;
+  color: #104e8b;
 }
 
 div#content pre {
   padding: 1em;
   font-size: 9pt;
   background-color: #EEEEE0;
-  border: 1px solid #CDCDC1;
+  border: 1px solid #104e8b;
   overflow: auto;
 }
 
 div#footer {
+  margin-left: auto;
+  margin-right: auto;
   margin-top: 30px;
   color: black;
   text-align: center;
@@ -59,8 +61,7 @@ div#footer {
   background-color: #EEEEE0;
   padding-bottom: 5px;
   clear: both;
-  float: left;
-  width: 80%;
+  width: 95%;
 }
 
 div#footer a {

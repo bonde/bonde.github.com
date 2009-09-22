@@ -1,7 +1,7 @@
 html, body {
   padding: 0;
   margin: 0;
-  background-color: #FAFAFA;
+  background-color: #FCFCFC;
 }
 
 body {
@@ -92,7 +92,7 @@ div.post_info a:visited,
 div.post_info a:link,
 div.post_info a:active {
   color: #222222;
-  background-color: #FAFAFA;
+  background-color: #FCFCFC;
   text-decoration: none;
   color: black;
   border: 0;
@@ -127,7 +127,7 @@ div#header a {
 }
 
 div#header a:hover {
-  background-color: #FAFAFA;
+  background-color: #FCFCFC;
 }
 
 a, a:visited, a:link, a:active {
@@ -145,7 +145,7 @@ a:hover {
   border-left: none;
   border-right: none;
   border-bottom: 1px dotted #8B0000;
-  background-color: #FAFAFA;
+  background-color: #FCFCFC;
 }
 
 ul.posts {

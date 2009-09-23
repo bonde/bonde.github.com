@@ -14,6 +14,24 @@ img {
   border: 0;
 }
 
+div#header h1 {
+  color: #222222;
+  letter-spacing: -1px;
+  height: 60px;
+  background-color: #EEEEE0;
+  border-bottom: 1px solid #CDCDC1;
+  padding-left: 20px;
+  padding-top: 8px;
+  margin: 0px;
+  font-size: 26pt;
+}
+
+div#header a {
+  color: #222222;
+  text-decoration: none;
+  border: 0;
+}
+
 blockquote {
   overflow: auto;
   padding: 0 50px;
@@ -52,6 +70,7 @@ div#content pre {
 }
 
 div#footer {
+  font-size: 8px;
   margin-left: auto;
   margin-right: auto;
   margin-top: 30px;
@@ -102,24 +121,6 @@ div.maruku-equation {
 
 div#related {
   margin-top: 20px;
-}
-
-div#header h1 {
-  color: #222222;
-  letter-spacing: -1px;
-  height: 60px;
-  background-color: #EEEEE0;
-  border-bottom: 1px solid #CDCDC1;
-  padding-left: 20px;
-  padding-top: 8px;
-  margin: 0px;
-  font-size: 26pt;
-}
-
-div#header a {
-  color: #222222;
-  text-decoration: none;
-  border: 0;
 }
 
 a, a:visited, a:link, a:active {

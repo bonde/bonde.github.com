@@ -5,13 +5,13 @@ tags: [me, git, bachelor project]
 excerpt:
 
 Hi! My name is Ulrik Bonde and I am studying at
-[The Department of Computer Sciences at the University of Copenhagen](http://diku.dk)
+"The Department of Computer Sciences at the University of Copenhagen":http://diku.dk
 where I plan on finishing my bachelor's degree this year.  I am currently in the process
 of writing my bachelor project, in which we would like to find out whether you
 can use techniques from computer vision to determine if a painting exhibits
-artistic use of [the golden ratio](http://en.wikipedia.org/wiki/Golden_ratio).
+artistic use of "the golden ratio":http://en.wikipedia.org/wiki/Golden_ratio .
 This involves some feature detection using the open source computer vision
-library from Intel called [OpenCV](http://opencv.willowgarage.com/wiki/). The
+library from Intel called "OpenCV":http://opencv.willowgarage.com/wiki/ . The
 code is primarily written in Python using bindings supplied by OpenCV. The
 program code and report are hosted here on github but be warned, the report is
 written in danish. Check the repository out at <http://github.com/thorlund/gyldnesnit>.

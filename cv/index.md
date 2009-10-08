@@ -20,10 +20,9 @@ Reventlowsgade 32, 4. th.<br />
 ### Work experience
 
 #### Developer, Signatur A/S
- * Købmagergade, København
- * 2008 -
- * Maintenance and development of Plone based CMS. Maintenance of Zope,
-   Apache/FreeBSD and various website tasks.
+ ##### Købmagergade, København
+ ##### 2008 -
+ ##### Maintenance and development of Plone based CMS. Maintenance of Zope, Apache/FreeBSD and various website tasks.
 
 Various other jobs...
 

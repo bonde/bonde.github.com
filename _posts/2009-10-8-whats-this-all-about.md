@@ -2,9 +2,7 @@
 layout: post
 title: What's this all about?
 tags: [me, git, bachelor project]
-excerpt:
-
-Hi! My name is Ulrik Bonde and I am studying at
+excerpt: Hi! My name is Ulrik Bonde and I am studying at
 ---
 [The Department of Computer Sciences at the University of Copenhagen](http://diku.dk)
 where I plan on finishing my bachelor's degree this year.  I am currently in the process

@@ -150,7 +150,7 @@ ul.posts li {
   line-height: 1.70em;
 }
 
-div#menu {
+div#sidebar {
   margin: 20px;
   padding: 0 10px 10px 0;
   float: left;
@@ -158,17 +158,17 @@ div#menu {
   text-align: left;
 }
 
-div#menu ul {
+div#sidebar ul {
   margin-left: 0px;
   padding-left: 25px;
 }
 
-div#menu h3 {
+div#sidebar h3 {
   font-variant: small-caps;
   margin: 0;
 }
 
-div#menu p {
+div#sidebar p {
   padding: 0 0 8px 8px;
   line-height: 1.5;
   text-align: justify;

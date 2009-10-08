@@ -8,7 +8,8 @@ title: Curriculum Vitae
 
 ### Ulrik Bonde
 Reventlowsgade 32, 4. th.<br />
-1651 København V<br />
+1651 København V
+
 (+45) 20 82 84 82<br />
 <ulrikbonde@gmail.com>
 
@@ -20,9 +21,10 @@ Reventlowsgade 32, 4. th.<br />
 ### Work experience
 
 #### Developer, Signatur A/S
- ##### Købmagergade, København
- ##### 2008 -
- ##### Maintenance and development of Plone based CMS. Maintenance of Zope, Apache/FreeBSD and various website tasks.
+ * Købmagergade, København
+ * 2008 -
+ * Maintenance and development of Plone based CMS. Maintenance of Zope,
+   Apache/FreeBSD and various website tasks.
 
 Various other jobs...
 

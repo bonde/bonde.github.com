@@ -69,15 +69,10 @@ div#content pre {
   overflow: auto;
 }
 
-ul#content {
+div#content ul {
   list-style-type: none;
-  margin-bottom: 2em;
-  margin-top: 1px;
+  margin-top: -1em;
   padding-left: 10px;
-}
-
-ul#content li {
-  line-height: 1.70em;
 }
 
 div#footer {

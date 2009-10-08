@@ -70,9 +70,9 @@ div#content pre {
 }
 
 div#content ul {
-  list-style-type: none;
+  list-style-type: circle;
   margin-top: -1em;
-  padding-left: 10px;
+  padding-left: 18px;
 }
 
 div#footer {

@@ -72,6 +72,7 @@ div#content pre {
 ul#content {
   list-style-type: none;
   margin-bottom: 2em;
+  margin-top: 1px;
   padding-left: 10px;
 }
 

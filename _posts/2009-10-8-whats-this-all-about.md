@@ -5,6 +5,7 @@ tags: [me, git, bachelor project]
 excerpt:
 
 Hi! My name is Ulrik Bonde and I am studying at
+---
 [The Department of Computer Sciences at the University of Copenhagen](http://diku.dk)
 where I plan on finishing my bachelor's degree this year.  I am currently in the process
 of writing my bachelor project, in which we would like to find out whether you
@@ -15,8 +16,6 @@ library from Intel called [OpenCV](http://opencv.willowgarage.com/wiki/). The
 code is primarily written in Python using bindings supplied by OpenCV. The
 program code and report are hosted here on github but be warned, the report is
 written in danish. Check the repository out at <http://github.com/thorlund/gyldnesnit>.
-
----
 
 It was in the start-up of the bachelor project that I became aware of this
 fantastic site called github and the possibility of hosting my webpage here.

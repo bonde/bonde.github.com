@@ -9,10 +9,8 @@ title: Curriculum Vitae
 ### Ulrik Bonde
  * Reventlowsgade 32, 4. th.
  * 1651 København V
-
- * Telephone: (+45) 20 82 84 82
-
- * Email: <ulrikbonde@gmail.com>
+ * (+45) 20 82 84 82
+ * <ulrikbonde@gmail.com>
 
 ### Uddannelse
  * BSc. Datalogi, Københavns Universitet 2010  (expected)

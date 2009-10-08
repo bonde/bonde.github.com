@@ -69,6 +69,16 @@ div#content pre {
   overflow: auto;
 }
 
+ul#content {
+  list-style-type: none;
+  margin-bottom: 2em;
+  padding-left: 10px;
+}
+
+ul#content li {
+  line-height: 1.70em;
+}
+
 div#footer {
   font-size: 9px;
   margin-left: auto;

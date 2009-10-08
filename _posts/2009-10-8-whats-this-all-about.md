@@ -14,8 +14,7 @@ This involves some feature detection using the open source computer vision
 library from Intel called [OpenCV](http://opencv.willowgarage.com/wiki/). The
 code is primarily written in Python using bindings supplied by OpenCV. The
 program code and report are hosted here on github but be warned, the report is
-written in danish. Check the repository out at
-[http://github.com/thorlund/gyldnesnit](http://github.com/thorlund/gyldnesnit).
+written in danish. Check the repository out at <http://github.com/thorlund/gyldnesnit>.
 
 It was in the start-up of the bachelor project that I became aware of this
 fantastic site called github and the possibility of hosting my webpage here.

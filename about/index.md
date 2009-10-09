@@ -1,6 +1,7 @@
 ---
 layout: default
 title: About
+
 ---
 
 My name is Ulrik Bonde and I am a bachelor student at

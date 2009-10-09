@@ -18,7 +18,7 @@ Reventlowsgade 32, 4. th.<br />
  * Student HHX, Slagelse Handelsskole, 2004
  * 10\. grade, Sejergaardens Musikefterskole, 2000
 
-### Work experience
+### Work Experience
 
 #### Developer, Signatur A/S
  * Købmagergade, København
@@ -28,10 +28,10 @@ Reventlowsgade 32, 4. th.<br />
 
 Various other jobs...
 
-### Projects and misc
+### Projects and Miscellaneous
 
-#### Tutor, The Department of Computer Science
- * University of Copenhagen
+#### Tutor
+ * The Department of Computer Science at the University of Copenhagen
  * 2007 - 2009
  * Introduce new students to the study of computer science by talks and
    presentations. 
@@ -42,7 +42,8 @@ Various other jobs...
  * MGK is a three-year musical study serving as an introduction to further
    studies at The Royal Danish Academy of Music.
 
-### Computer competencies
+### Computer Competencies
+#### Competencies
  * Advanced use of Linux systems (Gentoo, Ubuntu)
  * Experience with Windows, FreeBSD and Mac OSX
  * Programmed using ML, Haskell, MIPS, Java, Matlab, Python, C, C++
@@ -50,7 +51,7 @@ Various other jobs...
  * Some experience with databases (SQL, MYSQL, DB2)
  * Worked with Plone CMS, Zope and Apache web server
 
-### Language skills
+### Language Skills
  * Danish
  * English, good read/write skills
  * German, _very_ basic

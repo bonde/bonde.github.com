@@ -12,8 +12,8 @@ title: Main Page
 <div class="post">
   <hr />
   {{ post.content }}
+  <a href="{{ post.url }}#disqus_thread">Comment count</a>
 </div>
-<a href="{{ post.url }}#disqus_thread">Comment count</a>
 
 <br />
 {% endfor %}

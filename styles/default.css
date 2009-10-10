@@ -60,7 +60,6 @@ div#content p {
 div#content code {
   color: #104e8b;
   background-color: #EEEEE0;
-  border: 1px solid #e0e0e0;
   -moz-border-radius: 0.2em;
   -webkit-border-radius: 0.2em;
 }
@@ -119,9 +118,6 @@ div.post_info a:hover,
 div.post_info a:visited,
 div.post_info a:link,
 div.post_info a:active {
-  color: black;
-  background-color: #FCFCFC;
-  text-decoration: none;
   border: 0;
 }
 
@@ -201,10 +197,6 @@ div#icons a {
 
 div#comments a {
   border: 0;
-}
-
-p#comment_count {
-  text-align: right;
 }
 
 /* vim: set sw=2 sts=2 et : */

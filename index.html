@@ -6,14 +6,14 @@ title: Main Page
 {% for post in site.posts limit: 5 %}
 <div class="post_info">
   <h1><a href="{{ post.url }}">{{ post.title }}</a></h1>
-  <p>Created on {{ post.date | date:"%d/%m/%y" }}. Tags: {{ post.tags | array_to_sentence_string }}</p>
+  <p>Created on {{ post.date | date:"%d/%m/%y" }}. <a href="{{ post.url }}#disqus_thread">Comment count</a></p>
 </div>
 
 <div class="post">
   <hr />
   {{ post.content }}
-  <div class="comment_count">
-    <p><a href="{{ post.url }}#disqus_thread">Comment count</a></p>
+  <div class="post_info">
+    <p>Tags: {{ post.tags | array_to_sentence_string }}</p>
   </div>
 </div>
 

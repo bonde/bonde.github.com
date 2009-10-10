@@ -9,7 +9,7 @@ title: Archive
 
 <div class="post">
   <ul class="posts">
-    {% for p in site.posts }
+    {% for p in site.posts %}
     <li>&raquo; <a href="{{ p.url }}">{{ p.title }}</a> ({{ p.date | date_to_string }}) <a href="{{ p.url }}#disqus_thread">Comment count</a></li>
     {% endfor %}
   </ul>

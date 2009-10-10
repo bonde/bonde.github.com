@@ -197,4 +197,8 @@ div#comments a {
   border: 0;
 }
 
+p#comment_count {
+  text-align: right;
+}
+
 /* vim: set sw=2 sts=2 et : */

@@ -48,7 +48,7 @@ self-respect, yet still have all of my early monkey-code available to myself.
 Finally I needed someplace to supply my [public key](/key/). It will also soon be
 available at a keyserver near you.
 
-Well, theres more to come and way too many other things to be done. I'd better
+Well, there's more to come and way too many other things to be done. I'd better
 get back to work. There's no real reason to "stay tuned" as future posts
 probably will concern linux, open source and pseudo-random everyday "stuff"
 lacking real substance...

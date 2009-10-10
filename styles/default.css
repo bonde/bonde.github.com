@@ -59,13 +59,19 @@ div#content p {
 
 div#content code {
   color: #104e8b;
+  background-color: #EEEEE0;
+  border: 1px solid #e0e0e0;
+  -moz-border-radius: 0.2em;
+  -webkit-border-radius: 0.2em;
 }
 
 div#content pre {
   padding: 1em;
   font-size: 9pt;
   background-color: #EEEEE0;
-  border: 1px solid #104e8b;
+  border: 1px solid #e0e0e0;
+  -moz-border-radius: 0.2em;
+  -webkit-border-radius: 0.2em;
   overflow: auto;
 }
 

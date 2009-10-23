@@ -15,7 +15,7 @@ layout: default
     <h4>Related Posts</h4>
     <ul class="posts">
       {% for p in site.related_posts limit:3 %}
-      <li>&raquo; <a href="{{ p.url }}">{{ p.title }}</a> ({{ p.date | date_to_string }})</li>
+      <li><a href="{{ p.url }}">{{ p.title }}</a> ({{ p.date | date_to_string }})</li>
       {% endfor %}
     </ul>
     <hr />

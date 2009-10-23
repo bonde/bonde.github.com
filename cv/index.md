@@ -4,8 +4,6 @@ title: Curriculum Vitae
 
 ---
 
-## Curriculum Vitae
-
 ### Ulrik Bonde
 Reventlowsgade 32, 4. th.<br />
 1651 København V

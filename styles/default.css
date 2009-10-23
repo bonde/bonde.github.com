@@ -102,6 +102,11 @@ div#footer {
   clear: both;
 }
 
+div.base h1 {
+  font-size: 18pt;
+  margin: 0;
+}
+
 div#footer a {
   border: 0;
 }

@@ -1,13 +1,26 @@
 html, body {
   padding: 0;
   margin: 0;
-  background-color: #FCFCFC;
 }
 
 body {
+  background-color: #FCFCFC;
   font-family: verdana,sans-serif;
   font-size: 9pt;
   color: black;
+  margin: 0px 140px 20px 140px;
+  text-align: center;
+}
+
+#page {
+  width: 100%;
+  padding: 0px;
+  text-align: left;
+  overflow: auto;
+  background-color: #fff;
+  border-right: 1px solid #CDCDC1;
+  border-left: 1px solid #CDCDC1;
+  border-bottom: 1px solid #CDCDC1;
 }
 
 img {
@@ -19,7 +32,7 @@ div#header h1 {
   letter-spacing: -1px;
   height: 60px;
   background-color: #EEEEE0;
-  border-bottom: 1px solid #CDCDC1;
+  /* border-bottom: 28px solid #CDCDC1; */
   padding-left: 20px;
   padding-top: 8px;
   margin: 0px;
@@ -87,11 +100,11 @@ div#footer {
   margin-top: 30px;
   color: black;
   text-align: center;
-  border: 1px solid #CDCDC1;
+  border-top: 1px solid #CDCDC1;
   background-color: #EEEEE0;
   padding-bottom: 5px;
   clear: both;
-  width: 95%;
+  width: 100%;
 }
 
 div#footer a {
@@ -197,6 +210,55 @@ div#icons a {
 
 div#comments a {
   border: 0;
+}
+
+/* Menu */
+
+#menu {
+  /* width: 1000px; */
+  height: 28px;
+  margin: 0 auto;
+  padding: 0;
+  background-color: #CDCDC1;
+}
+
+#menu ul {
+  float: right;
+  margin: 0;
+  padding: 0px 25px 0px 0px;
+  list-style: none;
+  line-height: normal;
+}
+
+#menu li {
+  float: left;
+}
+
+#menu a {
+  display: block;
+  width: 100px;
+  height: 21px;
+  margin-left: 10px;
+  padding-top: 7px;
+  background-color: #CDCDC1;
+  text-decoration: none;
+  text-align: center;
+  font-size: 12px;
+  font-weight: normal;
+  border: none;
+}
+
+#menu a:hover, #menu .active a {
+  border-top: 3px solid #CDCDC1;
+  text-decoration: none;
+  background-color: #FFFFFF;
+  padding-top: 4px;
+  margin-bottom: -3px;
+}
+
+#menu .current_page_item a {
+  padding-left: 0;
+  color: #493E2B;
 }
 
 /* vim: set sw=2 sts=2 et : */

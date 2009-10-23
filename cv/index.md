@@ -6,10 +6,10 @@ title: Curriculum Vitae
 
 ### Ulrik Bonde
 #### Contact information
-Reventlowsgade 32, 4. th.
+Reventlowsgade 32, 4. th.<br />
 1651 København V
 
-(+45) 20 82 84 82
+(+45) 20 82 84 82<br />
 <ulrikbonde@gmail.com>
 
 ### Education

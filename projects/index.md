@@ -4,11 +4,8 @@ title: Projects
 
 ---
 
-Projects a am currently involved in
+## Projects
 
-Bachelor project:
-[Detection of The Golden Ratio in Digitalized Paintings](http://github.com/thorlund/gyldnesnit)
-
-[Gimoas](http://github.com/jlouis/gimoas)
+ * [Detection of The Golden Ratio in Digitalized Paintings (Bachelor project)](http://github.com/thorlund/gyldnesnit)
 
 <!-- vim: set sw=2 ft=mkd sts=2 et tw=80: -->

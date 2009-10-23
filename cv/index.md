@@ -5,24 +5,12 @@ title: Curriculum Vitae
 ---
 
 ### Ulrik Bonde
-<table>
-  <tr>
-    <td>
-      Reventlowsgade 32, 4. th.
-    </td>
-    <td>
-      1651 København V
-    </td>
-  </tr>
-  <tr>
-    <td>
-      (+45) 20 82 84 82
-    </td>
-    <td>
-      ulrikbonde@gmail.com
-    </td>
-  </tr>
-</table>
+#### Contact information
+Reventlowsgade 32, 4. th.
+1651 København V
+
+(+45) 20 82 84 82
+<ulrikbonde@gmail.com>
 
 ### Education
  * BSc. Computer Science, University of Copenhagen 2010  (expected)

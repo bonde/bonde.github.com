@@ -17,9 +17,6 @@ body {
   text-align: left;
   overflow: auto;
   background-color: #fff;
-  border-right: 1px solid #CDCDC1;
-  border-left: 1px solid #CDCDC1;
-  border-bottom: 1px solid #CDCDC1;
 }
 
 img {
@@ -31,7 +28,8 @@ div#header h1 {
   letter-spacing: -1px;
   height: 60px;
   background-color: #EEEEE0;
-  /* border-bottom: 28px solid #CDCDC1; */
+  border-left: 1px solid #CDCDC1;
+  border-right: 1px solid #CDCDC1;
   padding-left: 20px;
   padding-top: 8px;
   margin: 0px 0px -10px 0px;
@@ -99,11 +97,10 @@ div#footer {
   margin-top: 30px;
   color: black;
   text-align: center;
-  border-top: 1px solid #CDCDC1;
+  border: 1px solid #CDCDC1;
   background-color: #EEEEE0;
   padding-bottom: 5px;
   clear: both;
-  width: 100%;
 }
 
 div#footer a {
@@ -214,11 +211,12 @@ div#comments a {
 /* Menu */
 
 #menu {
-  /* width: 1000px; */
   height: 28px;
   margin: 0 auto;
   padding: 0;
   background-color: #CDCDC1;
+  -moz-border-radius: 0.0em 0.0em 0.5em 0.5em;
+  -webkit-border-radius: 0.5em;
 }
 
 #menu ul {
@@ -248,11 +246,8 @@ div#comments a {
 }
 
 #menu a:hover, #menu .active a {
-  border-top: 3px solid #CDCDC1;
   text-decoration: none;
-  background-color: #FFFFFF;
-  padding-top: 4px;
-  margin-bottom: -3px;
+  background-color: #EEEEE0;
 }
 
 #menu .current_page_item a {

@@ -19,7 +19,7 @@ title: Curriculum Vitae
       (+45) 20 82 84 82
     </td>
     <td>
-      <ulrikbonde@gmail.com>
+      ulrikbonde@gmail.com
     </td>
   </tr>
 </table>

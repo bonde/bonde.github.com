@@ -56,7 +56,7 @@ Well, new computer and an extra hard disc as I had decided that I was fed up
 with Microsoft Windows. I read through some books on Linux and tried my luck
 with OpenSuse 9.1. It worked, sorta, but it was not fully functional. I received
 a phone call from the tutors from Computer Science asking me if I was attending
-the introduction trip. Apparently I expressed my frustration over Suse as I was
+the introduction trip. Apparently I expressed my frustration over Suse and I was
 recommended to try out Ubuntu (then Dapper Drake). My stationary computer have
 not changed operating system since. The discovery of *nix operating system and
 the open source community have opened a whole new world for me.

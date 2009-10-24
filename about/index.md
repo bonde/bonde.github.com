@@ -57,20 +57,23 @@ with Microsoft Windows. I read through some books on Linux and tried my luck
 with OpenSuse 9.1. It worked, sorta, but it was not fully functional. I received
 a phone call from the tutors from Computer Science asking me if I was attending
 the introduction trip. Apparently I expressed my frustration over Suse and I was
-recommended to try out Ubuntu (then Dapper Drake). My stationary computer have
+recommended to try out Ubuntu (then Dapper Drake). My home computer have
 not changed operating system since. The discovery of \*nix operating system and
 the open source community have opened a whole new world for me.
+
+### Computer Science
 
 Likewise, the studies at Computer Science have also opened my eyes. I was very
 weary when I agreed to attend the introduction. I thought: *"A whole week in an
 isolated cottage with nerds can only be boring. I'm just gonna sit hammered in
 the corner talking to myself..."*. I was wrong. Wrong indeed. Though it was a
-week in an isolated cottage with nerds (some 28 males) it certainly wasn't
-boring.
+week in an isolated cottage with nerds it certainly wasn't boring.
 
-### Computer Science
+To this date the studies at Computer Science is very social because many
+organizations at the institute are run by the students themselves. I've been
+involved in the tutor programme as well as the annual revue where I have
+been in charge of the band.
 
-Even more bable...
 
 ### Recap
 

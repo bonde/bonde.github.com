@@ -30,6 +30,8 @@ her. I was sent outside to play, even on rainy days. Now seems like a good time
 to reveal that I was raised on the countryside in [Snekkerup][snekkerup]
 with 11 kilometers to the closest major city, [Slagelse][slagelse].
 
+### Playing music
+
 At some time I decided that I was gonna play music and I wanted to play the
 bass. Living in relatively isolated place provided good conditions for
 practicing undisturbed. Eventually I became rather successful with this and
@@ -48,6 +50,8 @@ and bought a new computer as I was actually still clamping on the old IBM
 keyboard (the actual computer had been upgraded to a 166MHz but we're in 2006 at
 this time!).
 
+### Introducing Linux
+
 Well, new computer and an extra hard disc as I had decided that I was fed up
 with Microsoft Windows. I read through some books on Linux and tried my luck
 with OpenSuse 9.1. It worked, sorta, but it was not fully functional. I received
@@ -63,6 +67,10 @@ isolated cottage with nerds can only be boring. I'm just gonna sit hammered in
 the corner talking to myself..."*. I was wrong. Wrong indeed. Though it was a
 week in an isolated cottage with nerds (some 28 males) it certainly wasn't
 boring.
+
+### Computer Science
+
+Even more bable...
 
 ### Recap
 

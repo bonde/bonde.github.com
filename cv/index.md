@@ -39,7 +39,7 @@ Various other jobs...
  * MGK Slagelse
  * 2005 - 2006
  * MGK is a three-year musical study serving as an introduction to further
-   studies at The Royal Danish Academy of Music.
+   studies at The Rhythmic Music Conservatory.
 
 ### Computer Competencies
 #### Competencies

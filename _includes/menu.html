@@ -1,8 +1,45 @@
 <div id="menu">
   <ul>
-    <li><a href="/about/">about</a></li>
-    <li><a href="/projects/">projects</a></li>
-    <li><a href="/archive/">archive</a></li>
-    <li><a href="/cv/">cv</a></li>
+    {% if page.title == "Main Page" %}
+    <li class="active">
+    {% else %}
+    <li>
+    {% endif %}
+      <a href="/">home</a>
+    </li>
+
+    {% if page.title == "About" %}
+    <li class="active">
+    {% else %}
+    <li>
+    {% endif %}
+      <a href="/about/">about</a>
+    </li>
+
+    {% if page.title == "Projects" %}
+    <li class="active">
+    {% else %}
+    <li>
+    {% endif %}
+      <a href="/projects/">projects</a>
+    </li>
+
+    {% if page.title == "Archive" %}
+    <li class="active">
+    {% else %}
+    <li>
+    {% endif %}
+      <a href="/archive/">archive</a>
+    </li>
+
+    {% if page.title == "Curriculum Vitae" %}
+    <li class="active">
+    {% else %}
+    <li>
+    {% endif %}
+      <a href="/cv/">cv</a>
+    </li>
   </ul>
 </div>
+
+<!-- vim: set sw=2 sts=2 et : -->

@@ -2,6 +2,7 @@
 title: "Ulrik Bonde"
 url: http://bonde.github.com/
 
+destination: ./_site
 markdown: maruku
 permalink: "/:year/:month/:day/:title"
 pygments: true
